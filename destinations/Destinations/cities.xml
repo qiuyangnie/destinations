@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <city>
+        <name>Copenhagen</name>
+        <state>Denmark</state>
+        <image>Copenhagen.png</image>
+        <url>https://www.lonelyplanet.com/denmark/copenhagen</url>
+    </city>
+    <city>
+        <name>Shenzhen</name>
+        <state>China</state>
+        <image>Shenzhen.png</image>
+        <url>https://www.lonelyplanet.com/china/guangdong/shenzhen</url>
+    </city>
+    <city>
+        <name>Novi Sad</name>
+        <state>Serbia</state>
+        <image>NoviSad.png</image>
+        <url>https://www.lonelyplanet.com/serbia/vojvodina/novi-sad</url>
+    </city>
+    <city>
+        <name>Miami</name>
+        <state>USA</state>
+        <image>Miami.png</image>
+        <url>https://www.lonelyplanet.com/usa/miami</url>
+    </city>
+    <city>
+        <name>Kathmandu</name>
+        <state>Nepal</state>
+        <image>Kathmandu.png</image>
+        <url>https://www.lonelyplanet.com/nepal/kathmandu</url>
+    </city>
+    <city>
+        <name>Mexico City</name>
+        <state>Mexico</state>
+        <image>MexicoCity.png</image>
+        <url>https://www.lonelyplanet.com/mexico/mexico-city</url>
+    </city>
+    <city>
+        <name>Seattle</name>
+        <state>USA</state>
+        <image>Seattle.png</image>
+        <url>https://www.lonelyplanet.com/usa/seattle</url>
+    </city>
+    <city>
+        <name>Dakar</name>
+        <state>Senegal</state>
+        <image>Dakar.png</image>
+        <url>https://www.lonelyplanet.com/senegal/dakar</url>
+    </city>
+    <city>
+        <name>Meknes</name>
+        <state>Morocco</state>
+        <image>Meknes.png</image>
+        <url>https://www.lonelyplanet.com/morocco/the-mediterranean-coast-and-the-rif/meknes</url>
+    </city>
+</cities>
